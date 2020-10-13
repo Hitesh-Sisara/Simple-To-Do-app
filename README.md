@@ -1,0 +1,1 @@
+Simple To Do list app mad with django python
